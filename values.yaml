@@ -8,7 +8,7 @@ image:
   repository: "g3rhard/php-sample-app"
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "ad2dfb"
+  tag: "d2a247"
 
 imagePullSecrets: []
 nameOverride: ""
